@@ -18,7 +18,7 @@ function calculate() {
     }
 
     // ToDo: Call calculation logic. For now, we just assume the universal answer to everything ;-)
-    let result = 42;
+    let result = 43;
 
     resultSpan.innerText = result.toString();
     resultArea.hidden = false;
